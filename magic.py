@@ -201,11 +201,8 @@ if __name__ == "__main__":
 
     # Find and modify HUD location.
     print('Modifying HUD and subtitles location...')
-    if vertical_split == 1:
-        hud_shift_amount = 2.0
-    else:
-        hud_shift_amount = (standardized_monitor_width - 1920) / 3840 # divide by 1920, then divide by 2.
-        hud_shift_amount = round(hud_shift_amount, 4) * -1
+    hud_shift_amount = (standardized_monitor_width - 1920) / 3840 # divide by 1920, then divide by 2.
+    hud_shift_amount = round(hud_shift_amount, 4) * -1
 
     #Not gonna figure this one out
     subtitle_shift_amount = 1 - ((16/9) / your_aspect_ratio)
