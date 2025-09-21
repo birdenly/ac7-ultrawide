@@ -31,7 +31,7 @@ Installation (Using Nucleus Co-op):
 Installation (Manual): 
 
 1. Download the .Zip in [Github releases](https://github.com/birdenly/ac7-ultrawide/releases/tag/release)
-2. Place the files in <Steam Installation Location>\SteamApps\common\ACE COMBAT 7.
+2. Place the files in (Steam Installation Location)\SteamApps\common\ACE COMBAT 7.
 3. Create a Bat and add the CLI commands (ac7-ultrawide-for-nucleus.exe (Width) (Height) (1 for vertical split, 0 for not))
 4. Run it.
 
