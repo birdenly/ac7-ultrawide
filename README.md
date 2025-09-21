@@ -1,5 +1,5 @@
 # ac7-ultrawide
-Mod AC7 to work at ultrawide resolutions.
+Mod AC7 to work at ultrawide resolutions. http://ko-fi.com/birden
 
 This is a fork of massimilianodelliubaldini ac7-ultrawide to make it work for Nucleus Co-op Split screen (tested with 1080p/1440p monitors)
 
