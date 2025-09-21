@@ -1,7 +1,7 @@
 # ac7-ultrawide
 Mod AC7 to work at ultrawide resolutions.
 
-This is a fork of massimilianodelliubaldini ac7-ultrawide to make it work for Nucleus Co-op Split screen (tested with 1080p monitor)
+This is a fork of massimilianodelliubaldini ac7-ultrawide to make it work for Nucleus Co-op Split screen (tested with 1080p/1440p monitors)
 
 Only difference being this version is it accepts the resolution as input (CLI) and a different way to handle the HUD at 8:9 res
 
