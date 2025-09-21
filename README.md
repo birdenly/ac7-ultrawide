@@ -20,9 +20,27 @@ Due to the fact that this mod makes direct modification to the game executable,
 the game's new anticheat system may flag you and get you permanently banned from online play. 
 This developer holds no responsibility if this happens to you! 
 
-Installation: 
+Installation (Using Nucleus Co-op): 
 
-1. Download the Nucleus Co-op Handler
-2. Either use the handler or use the ac7-ultrawide-for-nucleus.exe inside with the CLI commands
+1. Download Nucleus Co-op
+2. Add the game
+3. Start the game using Nucleus
+4. Everything will be setup for you.
+- UltraWide will only apply to the game when started by Nucleus, not steam.
+
+Installation (Manual): 
+
+1. Download the .Zip in [Github releases](https://github.com/birdenly/ac7-ultrawide/releases/tag/release)
+2. Place the files in <Steam Installation Location>\SteamApps\common\ACE COMBAT 7.
+3. Create a Bat and add the CLI commands (ac7-ultrawide-for-nucleus.exe (Width) (Height) (1 for vertical split, 0 for not))
+4. Run it.
+
+Uninstallation:
+
+1. Delete d3d11.dll from your game directory.
+2. Delete Ace7Game.exe from your game directory.
+3. "Verify integrity of game files" in Steam. This will re-download the most up-to-date executable.
+
+
 
 
